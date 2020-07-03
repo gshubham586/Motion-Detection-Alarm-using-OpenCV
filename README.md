@@ -1,5 +1,4 @@
 # Motion-Detection-Alarm-using-OpenCV
-
 An ESP8266/ESP32 based alarm system that warns you when any motion is detected in camera.
 
 ## Overview
